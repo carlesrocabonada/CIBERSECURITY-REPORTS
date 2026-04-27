@@ -7,5 +7,5 @@ Todos los contenidos corresponden a ejercicios y entornos de laboratorio o forma
 
 Actualmente estoy orientando mi trayectoria hacia la ciberseguridad y este repositorio recoge parte del trabajo realizado durante mi proceso de formación.
 
-LinkedIn: www.linkedin.com/in/carles-roca-bonada-5398a71b4
+LinkedIn: www.linkedin.com/in/carlesrocabonada
 
